@@ -1,9 +1,9 @@
 # 新字体
 <style>
 	@font-face {
-    font-family: 'segoe-script-bold';
-    src: url('/resources/fonts/segoescb.ttf');
-}
+	    font-family: 'segoe-script-bold';
+	    src: url('../resources/fonts/segoescb.ttf');
+	}
       span{
       	font-size:50px;
         font-family: 'segoe-script-bold';
@@ -13,6 +13,7 @@
  As the deer pants for streams of water, so my soul pants for you
 </span>
 
+如果抠图，这里没有水印可以截图，不过最好下载字体
 
  > [这里是字体的下载链接](/resources/fonts/segoescb.ttf)
 
