@@ -1,17 +1,6 @@
 # 新字体
-<style>
-	@font-face {
-	    font-family: 'segoe-script-bold';
-	    src: url('https://sigmaxy.github.io/font/resources/fonts/segoescb.ttf');
-	}
-      span{
-      	font-size:80px;
-        font-family: 'segoe-script-bold';
-      }
-  </style>
-<span styple="">
- As the deer pants for streams of water, so my soul pants for you
-</span>
+
+![](../images/segoe-script-bold.png)
 
 如果抠图，这里没有水印可以截图，不过最好下载字体
 
