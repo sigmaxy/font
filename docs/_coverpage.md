@@ -11,6 +11,6 @@
 - 只能自己找到字体Segoe Script Bold，补全英文部分
 -  As the deer pants for streams of water, so my soul pants for you
 
-[开始裝修](#Page)
+[这里有大图高清字体](#Page)
 
 
