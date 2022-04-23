@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
-* [自我介紹](/)
-* [收樓驗樓](content/check.md)
+* [Page](/)
+<!-- * [收樓驗樓](content/check.md)
 * [執修](content/repair.md)
 * [工具](content/tools.md)
 * [網購集運](content/shopping.md)
@@ -12,3 +12,4 @@
 * [改裝](content/modify.md)
 * [好物推薦](content/taobao.md)
 * [视频](content/video.md)
+ -->
