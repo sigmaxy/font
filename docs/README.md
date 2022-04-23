@@ -5,7 +5,7 @@
         font-family: 'segoe-script-bold', sans-serif;
       }
   </style>
-<span>
+<span styple="font-size:40px">
  As the deer pants for streams of water, so my soul pants for you
 </span>
 
