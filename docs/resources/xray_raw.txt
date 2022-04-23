@@ -1,0 +1,15 @@
+vless://5218b99e-1fcd-4ebf-84be-5dc1d676f575@hkxray.first4figures.com:8443?encryption=none&security=tls&type=ws&host=hkxray.first4figures.com&sni=hkxray.first4figures.com&path=%2ffakews?ed=2048#香港稳定_vless+ws+tls+cdn
+vless://5218b99e-1fcd-4ebf-84be-5dc1d676f575@hkxray.first4figures.com:8443?encryption=none&security=xtls&type=tcp&host=hkxray.first4figures.com&headerType=none&sni=hkxray.first4figures.com&flow=xtls-rprx-direct#香港备用_vless+tcp+xtls
+vless://0bed8cb4-5271-462b-a4c8-33b2c0d8f36f@szxray.miasuki.com:8443?encryption=none&security=xtls&type=tcp&host=szxray.miasuki.com&headerType=none&sni=szxray.miasuki.com&flow=xtls-rprx-direct#深圳备用_vless+tcp+xtls
+vless://0bed8cb4-5271-462b-a4c8-33b2c0d8f36f@szxray.miasuki.com:8443?encryption=none&security=tls&type=ws&host=szxray.miasuki.com&sni=szxray.miasuki.com&path=%2fvasmaws?ed=2048#深圳备用_vless+ws+tls+cdn
+vmess://eyJwb3J0Ijo4NDQzLCJwcyI6Iua3seWcs+Wkh+eUqF92bWVzcyt3cyt0bHMrY2RuIiwidGxzIjoidGxzIiwiaWQiOiIwYmVkOGNiNC01MjcxLTQ2MmItYTRjOC0zM2IyYzBkOGYzNmYiLCJhaWQiOjAsInYiOjIsImhvc3QiOiJzenhyYXkubWlhc3VraS5jb20iLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJ2YXNtYXZ3cz9lZD0yMDQ4IiwibmV0Ijoid3MiLCJhZGQiOiJzenhyYXkubWlhc3VraS5jb20iLCJhbGxvd0luc2VjdXJlIjowLCJtZXRob2QiOiJub25lIiwicGVlciI6InN6eHJheS5taWFzdWtpLmNvbSIsInNuaSI6InN6eHJheS5taWFzdWtpLmNvbSJ9
+
+
+
+
+
+
+
+
+vmes encode
+{"port":8443,"ps":"深圳备用_vmess+ws+tls+cdn","tls":"tls","id":"0bed8cb4-5271-462b-a4c8-33b2c0d8f36f","aid":0,"v":2,"host":"szxray.miasuki.com","type":"none","path":"vasmavws?ed=2048","net":"ws","add":"szxray.miasuki.com","allowInsecure":0,"method":"none","peer":"szxray.miasuki.com","sni":"szxray.miasuki.com"}
