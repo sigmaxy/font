@@ -1,5 +1,13 @@
-# Page
+# 新字体
+<style>
+      span{
+      	font-size:30px;
+        font-family: 'segoe-script-bold', sans-serif;
+      }
+  </style>
+<span>
  As the deer pants for streams of water, so my soul pants for you
+</span>
 
 
  <font size="1"> This is my text number1</font> 
