@@ -5,7 +5,7 @@
 	    src: url('https://sigmaxy.github.io/font/resources/fonts/segoescb.ttf');
 	}
       span{
-      	font-size:50px;
+      	font-size:80px;
         font-family: 'segoe-script-bold';
       }
   </style>
