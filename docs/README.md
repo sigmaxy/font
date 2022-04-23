@@ -1,6 +1,6 @@
 # 新字体
 
-![](../images/segoe-script-bold.png)
+![](https://sigmaxy.github.io/font/images/segoe-script-bold.png)
 
 如果抠图，这里没有水印可以截图，不过最好下载字体
 
